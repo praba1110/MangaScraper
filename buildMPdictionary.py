@@ -1,3 +1,4 @@
+#this is the script used to build mpdict.json
 import requests
 import bs4
 import urllib
